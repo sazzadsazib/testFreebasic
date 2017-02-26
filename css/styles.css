@@ -1,0 +1,103 @@
+.mypadd {
+padding: 0 10px 10px 10px  ;
+}
+a .mypadd {
+padding: 0 10px 10px 10px  ;
+}
+body {
+	font-family: 'Roboto', sans-serif;
+	font-size: 12pt;
+}
+.mayacolor {
+	background-color: #cd144c;
+}
+.navstyle{
+	 box-shadow: 0 2px 2px rgba(0,0,0,0.40), 0 5px 5px rgba(0,0,0,0.15);
+
+}
+.dropshadowleftstyle{
+	 box-shadow: 0 8px 2px  rgba(0,0,0,0.40), 0 5px 5px rgba(0,0,0,0.15);
+
+}
+.notosans {
+	font-family: 'Noto Sans', sans-serif;
+	padding: 20px,10px,10px,10px;
+	margin-top: 10px;
+	
+}
+.font12pt {
+	font-size: 12pt;
+}
+.colorwhite {
+	color: #ffffff;
+}
+.colorLightMaya {
+	color: #fb719a;
+}
+.textareastyle{
+	background-color: #ffffff;
+	color: #cd144c;
+	width: 80%;
+	height: 20%;
+	margin-top: 20px;
+	resize: none;
+}
+
+.font8pt {
+	font-size: 8pt;
+}
+
+.colorGreen {
+	background-color: #31c63b;
+}
+
+.btn-circle.btn-xl {
+  width: 70px;
+  height: 70px;
+  padding: 10px 16px;
+  font-size: 24px;
+  line-height: 1.33;
+  border-radius: 35px;
+  background-color: #31c63b;
+}
+.btn-circle.btn-xl:hover {
+  background-color: #19a523;
+}
+.colormayatext {
+	color: #cd144c;
+}
+.font16pt{
+	font-size: 16pt;
+}
+
+.colorgrey {
+	background-color: #ededed;
+}
+.style1 {
+color: #cd144c;
+background-color: #cd144c;
+height: 2px;
+width: 70%;
+}
+.bg-white {
+	background-color: #ffffff;
+}
+.stickkkey {
+position: fixed;
+left: 0;
+bottom: 0;
+margin-bottom: 0;
+z-index: 998;
+}
+.stickkey {
+position: fixed;
+right: 0;
+bottom: 0;
+margin-bottom: 0;
+z-index: 998
+}
+.stickeydiv {
+	width: 100%;
+	height: 50px;
+	background-color:  #cd144c;
+}
